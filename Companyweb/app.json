@@ -1,0 +1,45 @@
+{
+  "id": "93785804-afa8-4736-8ec0-235c674374d7",
+  "name": "Companyweb",
+  "publisher": "Dynavision",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "52893518-cef6-4297-8e35-b0dd79f427e6",
+      "name": "Company Data Foundation",
+      "publisher": "Dynavision",
+      "version": "27.0.0.0"
+    },
+    {
+    "id": "2dbb7a4f-e3b3-469f-b86a-37cc0c711cd5",
+    "name": "Companyweb Business Information",
+    "publisher": "Dynavision",
+    "version": "27.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
