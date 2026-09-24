@@ -1,9 +1,9 @@
 {
-  "id": "55b5ea90-7eaf-4a62-a652-c48a05bce51d",
-  "name": "Companyweb Samples",
+  "id": "ddc7dd33-09a3-422a-821c-e18e5c343abe",
+  "name": "Dynavision Layouts Samples",
   "publisher": "Dynavision",
   "version": "28.0.0.0",
-  "brief": "Sample application for Companyweb.",
+  "brief": "Sample application for Dynavision Layouts.",
   "description": "https://dynavision.app/",
   "privacyStatement": "https://dynavision.app/",
   "EULA": "https://dynavision.app/",
@@ -12,14 +12,20 @@
   "logo": "Dynavision.png",
   "dependencies": [
     {
-      "id": "2dbb7a4f-e3b3-469f-b86a-37cc0c711cd5",
-      "name": "Companyweb Business Information",
+      "id": "dbe4cf4c-5910-4ad1-beee-394010c59802",
+      "name": "Dynavision Core",
       "publisher": "Dynavision",
       "version": "28.0.0.0"
     },
     {
-      "id": "52893518-cef6-4297-8e35-b0dd79f427e6",
-      "name": "Company Data Foundation",
+      "id": "19b3bb86-f92b-4338-ac6e-039a24b145d2",
+      "name": "Dynavision Layouts",
+      "publisher": "Dynavision",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "11915f33-9727-41aa-95d9-54e5307a3834",
+      "name": "Dynavision Trade",
       "publisher": "Dynavision",
       "version": "28.0.0.0"
     }
@@ -29,8 +35,8 @@
   "application": "28.1.0.0",
   "idRanges": [
     {
-      "from": 50200,
-      "to": 50299
+      "from": 50000,
+      "to": 50099
     }
   ],
   "contextSensitiveHelpUrl": "https://dynavision.app/",

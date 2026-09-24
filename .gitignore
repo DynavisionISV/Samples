@@ -1,0 +1,14 @@
+**/.vscode/rad.json
+**/.alcache/**
+**/.alpackages/** */
+**/.altemplates/**
+**/.altestrunner/**
+**/.snapshots/**
+*.app
+*.flf
+*.bclicense
+*dep.app
+*.g.xlf
+
+**/.vscode/**
+**/.markdownlint.json

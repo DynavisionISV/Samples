@@ -1,9 +1,9 @@
 {
-  "id": "55b5ea90-7eaf-4a62-a652-c48a05bce51d",
-  "name": "Companyweb Samples",
+  "id": "f8e77c58-2987-48d8-8de9-5a1b9e271a59",
+  "name": "Dynavision Advanced Promotions Samples",
   "publisher": "Dynavision",
   "version": "28.0.0.0",
-  "brief": "Sample application for Companyweb.",
+  "brief": "Sample application for Dynavision Advanced Promotions.",
   "description": "https://dynavision.app/",
   "privacyStatement": "https://dynavision.app/",
   "EULA": "https://dynavision.app/",
@@ -12,14 +12,8 @@
   "logo": "Dynavision.png",
   "dependencies": [
     {
-      "id": "2dbb7a4f-e3b3-469f-b86a-37cc0c711cd5",
-      "name": "Companyweb Business Information",
-      "publisher": "Dynavision",
-      "version": "28.0.0.0"
-    },
-    {
-      "id": "52893518-cef6-4297-8e35-b0dd79f427e6",
-      "name": "Company Data Foundation",
+      "id": "383914cd-5cef-4941-a6e6-38d2293bb6ba",
+      "name": "Dynavision Advanced Promotions",
       "publisher": "Dynavision",
       "version": "28.0.0.0"
     }
@@ -29,8 +23,8 @@
   "application": "28.1.0.0",
   "idRanges": [
     {
-      "from": 50200,
-      "to": 50299
+      "from": 50100,
+      "to": 50199
     }
   ],
   "contextSensitiveHelpUrl": "https://dynavision.app/",
