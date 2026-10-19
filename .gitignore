@@ -12,3 +12,4 @@
 
 **/.vscode/**
 **/.markdownlint.json
+*.code-workspace

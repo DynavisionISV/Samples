@@ -1,4 +1,4 @@
-pageextension 50200 DYNContactCard extends "Contact Card" // 5050
+pageextension 50200 DYN01ContactCard extends "Contact Card" // 5050
 {
     layout
     {

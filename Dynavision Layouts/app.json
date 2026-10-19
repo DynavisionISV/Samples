@@ -44,8 +44,7 @@
   "target": "Cloud",
   "features": [
     "NoPromotedActionProperties",
-    "NoImplicitWith",
-    "TranslationFile"
+    "NoImplicitWith"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,

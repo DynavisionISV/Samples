@@ -1,0 +1,42 @@
+{
+  "id": "e865f142-c7a6-44af-bf31-53682c491fd8",
+  "name": "Dynavision Core Samples",
+  "publisher": "Dynavision",
+  "version": "28.0.0.0",
+  "brief": "Sample application for Dynavision Core.",
+  "description": "https://dynavision.app/",
+  "privacyStatement": "https://dynavision.app/",
+  "EULA": "https://dynavision.app/",
+  "help": "https://dynavision.app/",
+  "url": "https://dynavision.app/",
+  "logo": "Dynavision.png",
+  "dependencies": [
+    {
+      "id": "dbe4cf4c-5910-4ad1-beee-394010c59802",
+      "name": "Dynavision Core",
+      "publisher": "Dynavision",
+      "version": "28.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.1.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50399
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://dynavision.app/",
+  "runtime": "17.1",
+  "target": "Cloud",
+  "features": [
+    "NoPromotedActionProperties",
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
