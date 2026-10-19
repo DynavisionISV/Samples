@@ -1,4 +1,4 @@
-pageextension 50002 "DYNSales Order Card" extends "Sales Order" // 42
+pageextension 50002 DYN40SalesOrder extends "Sales Order" // 42
 {
     actions
     {

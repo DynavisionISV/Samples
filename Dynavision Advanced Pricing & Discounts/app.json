@@ -1,0 +1,48 @@
+{
+  "id": "b5347fbf-998b-43ef-9470-b09e946a6b9a",
+  "name": "Dynavision Advanced Pricing & Discounts Samples",
+  "publisher": "Dynavision",
+  "version": "28.0.0.0",
+  "brief": "Sample application for Dynavision Advanced Pricing & Discounts.",
+  "description": "https://dynavision.app/",
+  "privacyStatement": "https://dynavision.app/",
+  "EULA": "https://dynavision.app/",
+  "help": "https://dynavision.app/",
+  "url": "https://dynavision.app/",
+  "logo": "Dynavision.png",
+  "dependencies": [
+    {
+      "id": "dbe4cf4c-5910-4ad1-beee-394010c59802",
+      "name": "Dynavision Core",
+      "publisher": "Dynavision",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "1f60890d-e1a4-485f-ad7c-1fd293389236",
+      "name": "Dynavision Advanced Pricing & Discounts",
+      "publisher": "Dynavision",
+      "version": "28.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.1.0.0",
+  "idRanges": [
+    {
+      "from": 50400,
+      "to": 50499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://dynavision.app/",
+  "runtime": "17.1",
+  "target": "Cloud",
+  "features": [
+    "NoPromotedActionProperties",
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}

@@ -15,3 +15,7 @@ The provided samples are used to be a free unofficial proof of concept without a
 
 ## Support ##
 As these samples can be used free of charge, we are not offering free services.
+
+## Used Object Ranges
+
+You can find an overview of the object ranges of our provided samples [here](.docs/ObjectRanges.md).

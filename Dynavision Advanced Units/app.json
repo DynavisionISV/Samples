@@ -1,0 +1,42 @@
+{
+  "id": "1772d684-a793-4084-9b50-45c655915e58",
+  "name": "Dynavision Advanced Units Samples",
+  "publisher": "Dynavision",
+  "version": "28.0.0.0",
+  "brief": "Sample application for Dynavision Advanced Units.",
+  "description": "https://dynavision.app/",
+  "privacyStatement": "https://dynavision.app/",
+  "EULA": "https://dynavision.app/",
+  "help": "https://dynavision.app/",
+  "url": "https://dynavision.app/",
+  "logo": "Dynavision.png",
+  "dependencies": [
+    {
+      "id": "b559e6f5-1779-4ea4-9315-fa0c2217323a",
+      "name": "Dynavision Advanced Units",
+      "publisher": "Dynavision",
+      "version": "28.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.1.0.0",
+  "idRanges": [
+    {
+      "from": 50600,
+      "to": 50699
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://dynavision.app/",
+  "runtime": "17.1",
+  "target": "Cloud",
+  "features": [
+    "NoPromotedActionProperties",
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
