@@ -4,7 +4,7 @@ This folder contains individual samples that extend the Elfsquad Connector.
 
 ## Elfsquad Samples
 
-Both samples are started from the **Sync Setup** page (`ESCY Sync Setup`), where an action is added for each sample (see [Setup](#setup)).
+Both samples are started from the **Sync Setup** page (`ESCY Sync Setup`), where an action is added for each sample.
 
 ### 01 - Sample Import To Buffer
 
