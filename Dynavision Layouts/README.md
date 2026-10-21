@@ -87,6 +87,24 @@ Extend the **ESCR Warehouse Reports** to hide all price information on warehouse
 3. **Prevents price information** from appearing on warehouse-related shipment documents
 4. **Marks the event as handled** to prevent default behavior from running
 
+### 06 - Add Custom Page Footer
+
+**Overview**
+
+This sample demonstrates how to extend Dynavision Layouts to customize the page footer text with dynamic content from master data.
+
+**Use Case**
+
+Extend the **ESCR Sales Quote** report to display custom footer text that includes company banking information (bank name and IBAN). This is useful when you want to display standardized footer content with company-specific details on printed documents.
+
+**What It Does**
+
+1. **Subscribes to the footer text event** from the Dynavision Layout framework
+2. **Filters by report type** to apply footer logic only to specific reports (e.g., Sales Quote)
+3. **Retrieves company information** from the Company Information master data
+4. **Constructs custom HTML footer text** that includes terms and conditions with banking details
+5. **Dynamically injects the footer** into the report layout before rendering
+
 ## Report Document Line Samples
 
 ### 20 - Add Report Line Field to Specific Layout
